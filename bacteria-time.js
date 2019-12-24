@@ -1,4 +1,3 @@
-// YOUR CODE BELOW
 const bacteriaTime = (currentNum, targetNum) =>
 {
     if (currentNum > targetNum) 
